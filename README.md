@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Ivan Tregubov
 
 You can use the [editor on GitHub](https://github.com/iat7/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### NSPK
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
